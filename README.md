@@ -1,11 +1,10 @@
 # Pitch-App
-# APP NAME
 
 ## One Minute Pitch
 
 # AUTHOR
 
-Kipngetich Ngeno
+Teddy Machoka
 
 # DESCRIPTION
 
@@ -31,8 +30,8 @@ This is an app that allows users to create,submit,vote pitches based on categori
 * Python3.6
 
 ## Installation steps 
-* $ git clone https://github.com/Kipngetich33/One-Minute-Pitch.git
-* $ cd One-Minute-Pitch
+* $ git clone https://github.com/Teddie98/Pitch-App.git
+* $ cd Pitch-App
 * $ source virtual/bin/activate
 * Inside the manage.py module change the config_name parameter from 'production' to 'development' ie app = create_app('production') should be app = create_app('development')
 * $ ./start.sh 
@@ -57,32 +56,13 @@ This is an app that allows users to create,submit,vote pitches based on categori
 
 # Support and Contacts
 
-In case You have any issues using this code please do no hesitate to get in touch with me through khalifngeno@gmail.com or leave a commit here on github.
+In case You have any issues using this code please do no hesitate to get in touch with me through teddymachoka98@yahoo.com or leave a commit here on github.
 
 # License
 
 * MIT License
 
-Copyright (c) 2017 Kipngetich Ngeno
+Copyright (c) 2020 Teddy Machoka
 
 
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.*
-
-Copyright (c) 2017 ** [Kipngetich Ngeno](https://kipngetich33.github.io/ "Github Portfolio") ** 
